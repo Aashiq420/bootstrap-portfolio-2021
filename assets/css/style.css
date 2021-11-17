@@ -458,6 +458,20 @@ h1, h2, h3, h4, h5, h6 {
   #hero .btn-get-started, #hero .btn-watch-video {
     font-size: 13px;
   }
+  #hero h1 {
+    /* margin: 40% 0 0 20%; */
+    font-size: 48px;
+    font-weight: 700;
+    line-height: 56px;
+    color: #222222;
+    font-family: "Poppins", sans-serif;
+  }
+  .img-me {
+    display: none;
+  }
+  #top-bar {
+    display: none;
+  }
 }
 @media (max-height: 500px) {
   #hero {
