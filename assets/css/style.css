@@ -714,6 +714,7 @@ section {
 }
 .cv-btn-container {
   display: flex;
+  justify-content: center;
   margin: 10px 15%;
 }
 /*--------------------------------------------------------------
